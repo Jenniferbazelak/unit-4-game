@@ -17,4 +17,4 @@ The value of each crystal is hidden from you until you click on it.
 Each time when the game starts, the game will change the value of each crystal.
 
 ## Where do I start?
-You can play here: 
+You can play here: https://jenniferbazelak.github.io/unit-4-game/
