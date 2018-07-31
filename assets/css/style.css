@@ -1,0 +1,92 @@
+*{
+    box-sizing: border-box;
+    color: maroon;
+    font-family: "Arial", "Helvetica Neue", "Helvetica", sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+#crystal-1{
+    background: url(../images/AC6443b-swarovski-capri-blue-bicone-bead.jpg);
+    height: 200px;
+    width: 100%;
+    border: 5px black solid;
+    background-size: 218px;
+    text-align: left;
+    color: white;
+    
+
+}
+#crystal-2{
+    background: url(../images/HF6273b-swarovski-light-siam-hotfix-flat-back-rhinestone.jpg);
+    height: 200px;
+    width: 100%;
+    border: 5px black solid;
+    background-size: 219px;
+    text-align: left;
+    color: white;
+
+}
+#crystal-3{
+    background: url(../images/venus-emerald-history-gemstones.jpg);
+    height: 200px;
+    width: 100%;
+    border: 5px black solid;
+    background-size: 226px;
+    text-align: left;
+    color: white;
+
+}
+#crystal-4{
+    background: url(../images/swarovski-crystal-yellow-opal-930x580.jpg);
+    height: 200px;
+    width: 100%;
+    border: 5px black solid;
+    background-size: 293px;
+    text-align: left;
+    color: white;
+
+}
+.header{
+    background: gray;
+    border-bottom: white 5px solid;
+    margin: auto;
+    height: 75px;
+}
+.containter{
+    margin: 20%;
+}
+img{
+    width: 90%;
+    border: 5px black solid;
+    padding-top: 20px;
+
+}
+
+.info{
+    background-color: lightseagreen;
+}
+h1{
+    padding: 20px;
+    padding-bottom:30px;
+}
+
+.crystal-row{
+    background: gray;
+}
+
+.footer{
+    background: gray;
+}
+.bbox1,.bbox2,.bbox3{
+    background:lightseagreen;
+    text-align: center;
+    border: 5px black solid;
+    padding-top: 30px;
+    font: 36px bold;
+
+}
+.instruct{
+    padding-left: 20px;
+    text-align: center;
+}
